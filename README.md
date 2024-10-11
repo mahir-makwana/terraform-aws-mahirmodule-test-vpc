@@ -12,7 +12,7 @@ and for public subnets, it sets up an Internet Gateway (IGW) and appropriate rou
 - Creates an INternet Gateway (IGW) for public subnets
 - Sets up route tables for public subnets
 
-## USage
+## Usage
 
 ```
   module "vpc" {
